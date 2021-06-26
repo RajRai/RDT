@@ -1,3 +1,4 @@
+# Note: The code in this file was provided by the course's professor to assist with the project
 def checksum(message):
     """
      This function calculates checksum of an input string

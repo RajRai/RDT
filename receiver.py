@@ -2,10 +2,6 @@
 Created on Oct 22, 2020
 
 @author: rajat
-
-Just a note that these for some reason run in my Windows CMD
-but not on an Anaconda prompt. Both use Python 3, but thought
-it was worth mentioning.
 '''
 
 import checksum
